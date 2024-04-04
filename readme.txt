@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 --------------------------------------
 Create a new branch.
+-----
+Create feature1 branch is quick AND simple.
